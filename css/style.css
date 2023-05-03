@@ -54,7 +54,7 @@ h2 {
 
 img {
   width: 100%;
-  height: auto;
+  height: 50vh;
 }
 
 .wrapper {
@@ -144,6 +144,10 @@ footer div {
 
 .icons a:hover {
   color: rgb(255, 255, 255, 0.8);
+}
+
+a {
+  color: #b57aeb;
 }
 
 @media all and (max-width:700px) {
